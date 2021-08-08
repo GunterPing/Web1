@@ -1,0 +1,21 @@
+img{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+
+
+}
+.one{
+	top: 0;
+	left: 0;
+}
+.two{
+	top: 5%;
+	left: 5%;
+	z-index: -1;
+}
+.three{
+	top: 10%;
+	left: 10%;
+	z-index: -3;
+}

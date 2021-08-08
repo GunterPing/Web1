@@ -1,0 +1,24 @@
+div{
+
+	
+	text-align: right;
+}
+.one{
+
+	background: red;
+	height: 200px;
+	
+}
+.two{
+
+	background: yellow;
+	height: 200px;
+
+	top: 1000px;
+}
+.special{
+	background: blue;
+	position: absolute;
+	right: 50%;
+	top: 10px;
+}

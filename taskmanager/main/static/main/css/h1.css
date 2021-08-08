@@ -1,0 +1,96 @@
+.b1,.b2,.b3{
+   /* width: 200px;
+    height:200px;
+    box-sizing: border-box;*/
+
+}
+body{
+   min-height: 100vh;
+/*   display:flex;*/
+   justify-content:center;
+ /*  align-items: center;*/
+
+}
+
+.b1{
+   min-height: 100vh;
+
+   justify-content:center;
+    background: url("pn.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+/*     background-size: contain;
+    padding: 20px;
+   background-position: center;*/
+}
+.b2{
+   min-height: 100vh;
+
+   justify-content:center;
+    background: yellow;
+    background: url("pexel.jpg");
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+   }
+.b3{
+   min-height: 100vh;
+
+   justify-content:center;
+    background: red;
+    padding:20px;
+    background-position: center;
+}
+/*
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+body{
+*/
+/*
+    font-family: 'Palette Mosaic', cursive;*//*
+
+    line-height: 5.0em;
+    font-weight: 100;
+
+}
+.three{
+    background: red;
+    padding: 20px;
+    border:5px solid green;
+    border-radius: 200%;
+}
+.one{
+    text-align:left;
+    text-indent: 30px;
+    letter-spacing: 50px;
+    text-transform: capitalize;
+    text-decoration: underline;
+
+}
+*/
+/*h2 {
+    color: blue;
+    font-size: 100px;
+    width:  200px;
+    background: yellow
+    }
+#heating{
+text-align: center;
+ color: yellow;
+ background: black;
+}
+.green{
+color: green;
+}
+div{
+
+color: blue;
+}
+span{
+text-align: center;
+text-transform: uppercase;
+border: 3px solid black;
+}*/

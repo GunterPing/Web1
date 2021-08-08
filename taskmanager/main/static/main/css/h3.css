@@ -1,0 +1,27 @@
+body{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,34,1) 22%, rgba(97,50,78,1) 48%, rgba(0,212,255,1) 100%);
+}
+.banner{
+	border: 5px solide red;
+	padding: 10px;
+
+}
+.one{
+    width: 300px;
+    height: 300px;
+    float: right;
+    align: right;
+    }
+.two{
+    width: 300px;
+    height: 300px;
+
+    float:left;
+    align: left;
+    }
+
+p{
+    clear: both;
+   /* vertical-align: middle;*/
+}

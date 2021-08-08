@@ -1,0 +1,20 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {{title}}
+    <link rel="stylesheet" href="{% static 'main/css/main.css' %}">
+<!--    <title>Главная страница</title>-->
+</head>
+<body>
+    <h1>Main paragraph</h1>
+    {% for el in tasks %}
+    <h3>{{el.task}}</h3>
+
+    {% endfor %}
+    <link rel="stylesheet" href="{% static 'main/css/main.css' %}">
+
+
+</body>
+</html>

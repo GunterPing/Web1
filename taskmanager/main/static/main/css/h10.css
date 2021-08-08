@@ -1,0 +1,15 @@
+:root{
+ --Colorisimmo: red;
+}
+
+.heading {
+	width: 200px;
+	height: 200px;
+	transition: all 2s linear;
+}
+.heading:hover{
+	color: var(--Colorisimmo);
+    -webkit-box-shadow: 54px 44px 40px 8px rgba(34, 60, 80, 0.37);
+    -moz-box-shadow: 54px 44px 40px 8px rgba(34, 60, 80, 0.37);
+    box-shadow: 54px 44px 40px 8px rgba(34, 60, 80, 0.37);
+}

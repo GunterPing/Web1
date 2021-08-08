@@ -1,0 +1,24 @@
+body{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,34,1) 22%, rgba(97,50,78,1) 48%, rgba(0,212,255,1) 100%);
+}
+div{
+    width: 250px;
+    height: 150px;
+    display: flex;
+    margin: 5px;
+
+}
+.one{
+    background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.9)),
+    url("pexel.jpg") center/cover fixed no-repeat;
+    color: white;
+    }
+/*.one{
+    background: linear-gradient(45deg, red, green)*/
+
+}
+.two{
+    background: linear-gradient(to top, red, green)
+
+}
